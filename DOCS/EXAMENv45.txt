@@ -1,0 +1,47 @@
+1- git init
+2-git remote remove origin
+3-git status -s
+4-git add .
+5-git commit -m "prova"
+6-git push https://github.com/oriolpujadas/examenm5uf2.git
+7-git clone https://github.com/oriolpujadas/examenm5uf2.git examenm5uf2
+8-git status -s
+9-git add .
+10-git commit -m "modificacio fitxer examenv2.txt"
+11-git push
+12-git pull
+13-git status -s
+14-git add .
+15-git commit -m "modificacio fitxer examenv3.txt"
+16-git push
+17-git status -s
+18-git add .
+19-git commit -m "modificacio fitxer examenv3.txt"
+20-git push 
+17-git status -s
+18-git add .
+19-git commit -m "actualitzacio rutes"
+20-git push 
+21-git pull
+22- git checkout -b p1
+23 -git checkout -b p2
+24- git status -s
+25- git add .
+26- git commit -m "modificiacio branques"
+27- git push
+28- git branch -d p1
+29- git branch -d p2
+30- git status -s 
+31- git add .
+32- git commit -m "modificacio fitxer examenv4.txt"
+33- git push
+34 - git status -s
+35-git add .
+36- git commit -m "traduccio"
+37- git push
+38 - git status -s
+39-git add .
+40- git commit -m "nom comercial"
+41- git push
+
+
