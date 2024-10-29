@@ -35,4 +35,13 @@
 31- git add .
 32- git commit -m "modificacio fitxer examenv4.txt"
 33- git push
+34 - git status -s
+35-git add .
+36- git commit -m "traduccio"
+37- git push
+38 - git status -s
+39-git add .
+40- git commit -m "nom comercial"
+41- git push
+
 
