@@ -18,3 +18,10 @@
 18-git add .
 19-git commit -m "modificacio fitxer examenv3.txt"
 20-git push 
+17-git status -s
+18-git add .
+19-git commit -m "actualitzacio rutes"
+20-git push 
+21-git pull
+22- git checkout -b p1
+23 -git checkout -b p2
