@@ -8,7 +8,9 @@
 8-git status -s
 9-git add .
 10-git commit -m "modificacio fitxer examenv2.txt"
-11- git push
-
-
-
+11-git push
+12-git pull
+13-git status -s
+14-git add .
+15-git commit -m "modificacio fitxer examenv3.txt"
+16-git push 
