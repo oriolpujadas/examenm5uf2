@@ -1,2 +1,8 @@
 1- git init
+2-git remote remove origin
+3-git status -s
+4-git add .
+5-git commit -m "prova"
+6-git push https://github.com/oriolpujadas/examenm5uf2.git
+
 
